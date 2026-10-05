@@ -4,61 +4,98 @@
 
 <br>
 
-### 🎮 `PLAYER 1` — Emily
-
-📊 **Data Analytics** · 💻 **Software Engineering** · 🔐 **Cybersecurity**
-
-*Turning data into insights, one project at a time.*
+<p>
+  <a href="https://github.com/Emilybolivar05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="TU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 🍄 About Me
+## Sobre mí
 
-🎓 Software Engineering graduate from Costa Rica  
-📊 Building my career in **Data Analytics & Business Intelligence**  
-🔐 Exploring **Cybersecurity & Networking**  
-🤖 Interested in **AI & Automation**
+🎓 **Software Engineering graduate** from Costa Rica
+
+📊 Building my career in **Data Analytics & Business Intelligence**
+
+💻 Interested in **Power BI, SQL, Excel & data visualization**
+
+🔐 Exploring **Cybersecurity & Networking**
+
+🤖 Curious about **AI & Automation**
+
+> 🎮 *Turning data into insights, one project at a time.*
 
 ---
 
-### 🛠️ Tech Stack
+## Technologies
 
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/DAX-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,mysql,vscode&perline=8" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DAX-107C10?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-📊 **[Customer & Partner Analytics — Power BI](https://github.com/Emilybolivar05/customer-partner-analytics-powerbi)**  
-Interactive dashboard focused on KPIs, segmentation and customer insights.
+<table align="center">
+<tr>
 
-👥 **HR Analytics Dashboard**  
-Recruitment, turnover and HR data analysis.
+<td width="50%" align="center">
 
-💰 **Salary Increase Analysis**  
-Excel-based analysis for salary scenarios and business insights.
+### Customer & Partner Analytics
+
+<a href="https://github.com/Emilybolivar05/customer-partner-analytics-powerbi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Emilybolivar05&repo=customer-partner-analytics-powerbi&theme=radical&hide_border=true" />
+</a>
+
+**Power BI · DAX · Data Modeling**
+
+</td>
+
+<td width="50%" align="center">
+
+### HR Analytics
+
+Recruitment & turnover analysis
+
+**Excel · Data Analysis · Visualization**
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🌱 Currently Leveling Up
+## Currently Learning
 
-`SQL` `Power BI` `DAX` `Data Modeling` `Microsoft Fabric` `Cybersecurity`
+`SQL` · `Power BI` · `DAX` · `Data Modeling` · `Microsoft Fabric` · `Cybersecurity`
 
-```text
-╭──────────────────────────────────────╮
-│        🎮 NEW SKILLS UNLOCKED        │
-│                                      │
-│   📊 ANALYZE   →   📈 VISUALIZE     │
-│   🧠 LEARN     →   🚀 BUILD         │
-╰──────────────────────────────────────╯
+---
+
+<div align="center">
+
+### `NEXT QUEST`
+
+**Build · Analyze · Learn · Repeat**
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Emilybolivar05&theme=radical&hide_border=true" />
+
+</div>
