@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Emily!+%F0%9F%91%BE;Data+Analytics+%7C+Business+Intelligence;Software+Engineer+%7C+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Emily!+%F0%9F%91%BE;" alt="Typing SVG" />
 
 <br>
 
@@ -17,17 +17,17 @@
 
 ---
 
-## Sobre mí
+## About me
 
-🎓 **Software Engineering graduate** from Costa Rica
+**Software Engineering graduate** from Costa Rica
 
-📊 Building my career in **Data Analytics & Business Intelligence**
+Building my career in **Data Analytics & Business Intelligence**
 
-💻 Interested in **Power BI, SQL, Excel & data visualization**
+Interested in **Power BI, SQL, Excel & data visualization**
 
-🔐 Exploring **Cybersecurity & Networking**
+Exploring **Cybersecurity & Networking**
 
-🤖 Curious about **AI & Automation**
+Curious about **AI & Automation**
 
 > 🎮 *Turning data into insights, one project at a time.*
 
@@ -70,6 +70,10 @@
 <td width="50%" align="center">
 
 ### HR Analytics
+
+<a href="[https://github.com/Emilybolivar05/customer-partner-analytics-powerbi](https://github.com/Emilybolivar05/HR-Analytics-Dashboard-Excel-)">
+<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Emilybolivar05&repo=customer-partner-analytics-powerbi&theme=radical&hide_border=true](https://github.com/Emilybolivar05/HR-Analytics-Dashboard-Excel-/blob/main/README.md)" />
+</a>
 
 Recruitment & turnover analysis
 
