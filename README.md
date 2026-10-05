@@ -19,17 +19,13 @@
 
 ## About me
 
-**Software Engineering graduate** from Costa Rica
+🎓 **Software Engineering graduate from Costa Rica**, currently building my path in **Data Analytics and Business Intelligence**.
 
-Building my career in **Data Analytics & Business Intelligence**
+I like turning raw data into clear visualizations, finding patterns, and creating insights that can help answer real business questions.
 
-Interested in **Power BI, SQL, Excel & data visualization**
+My current toolkit includes **Power BI, SQL, Excel, Power Query, DAX, and data modeling**. I'm also exploring **Cybersecurity, AI, and automation**.
 
-Exploring **Cybersecurity & Networking**
-
-Curious about **AI & Automation**
-
-> 🎮 *Turning data into insights, one project at a time.*
+> `DATA → INSIGHT → DECISION`
 
 ---
 
@@ -71,8 +67,8 @@ Curious about **AI & Automation**
 
 ### HR Analytics
 
-<a href="[https://github.com/Emilybolivar05/customer-partner-analytics-powerbi](https://github.com/Emilybolivar05/HR-Analytics-Dashboard-Excel-)">
-<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Emilybolivar05&repo=customer-partner-analytics-powerbi&theme=radical&hide_border=true](https://github.com/Emilybolivar05/HR-Analytics-Dashboard-Excel-/blob/main/README.md)" />
+<a href="https://github.com/Emilybolivar05/HR-Analytics-Dashboard-Excel-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Emilybolivar05&repo=HR-Analytics-Dashboard-Excel-&theme=radical&hide_border=true" />
 </a>
 
 Recruitment & turnover analysis
